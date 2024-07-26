@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d515fdcc-9d88-479d-b6a6-62d476a58d61" alt="logo" width="610" height="610">
+  <img src="https://github.com/user-attachments/assets/d515fdcc-9d88-479d-b6a6-62d476a58d61" alt="logo" width="400" height="400">
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
