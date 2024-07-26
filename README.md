@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/39fdff32-1349-4b4e-adfd-2a4a5e0b94aa" alt="logo" width="400" height="400">
+  <img src="https://github.com/user-attachments/assets/39fdff32-1349-4b4e-adfd-2a4a5e0b94aa" alt="logo" width="500" height="450">
 </div>
-![logo]()
+
 
 ## 📋 <a name="table">Table of Contents</a>
 
